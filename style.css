@@ -110,7 +110,7 @@ body{
 
 
 .min{
-  background-image: url('../images/min.png');
+  
   background-size: cover;
   width: 50px;
   height: 50%;
@@ -118,7 +118,6 @@ body{
 
 
 .hrs{
-  background-image: url('../images/hrs.png');
   background-size: cover;
   width: 50px;
   height: 35%;
